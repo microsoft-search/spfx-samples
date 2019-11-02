@@ -1,0 +1,23 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "graph-search-api-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/graphSearchApi/GraphSearchApiWebPart.js",
+          "manifest": "./src/webparts/graphSearchApi/GraphSearchApiWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "localizedResources": {
+    "GraphSearchApiWebPartStrings": "lib/webparts/graphSearchApi/loc/{locale}.js"
+
+  },
+  "externals": {
+    "jquery": "https://code.jquery.com/jquery-3.1.1.min.js",
+    "jquery-ui": "https://code.jquery.com/ui/1.12.1/jquery-ui.min.js",
+    "jsoneditor": "./lib/jsoneditor/jsoneditor.js"
+    }
+}
