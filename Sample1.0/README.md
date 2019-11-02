@@ -25,7 +25,7 @@ This sample requires the following:
 ## Getting started with the sample
 
  1. Download or clone this repo.
- 2. Open Visual Studio code to the **/Sample3.0/spfx** directory
+ 2. Open Visual Studio code to the **/Sample1.0/spfx** directory
  3. Run the following commands to setup your development environment
 
  ```Javascript
@@ -93,7 +93,7 @@ gulp package-solution
 
 ![Open Apps for SharePoint](./media/05_AppsForSharepoint.png 'Select apps for sharepoint and upload the web part')
 
-7.  Browse to the **Sample3.0/spfx/sample-3/sharepoint/solution** directory and select the **sample-3.sppkg** file
+7.  Browse to the **Sample1.0/spfx/sample-3/sharepoint/solution** directory and select the **sample-3.sppkg** file
 
 8.  Click **Open**, then select **OK**
 

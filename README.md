@@ -36,12 +36,7 @@ You can also get more familiar with the Microsoft Graph [here](https://developer
 
 Here are the current samples available:
 
--   [Sample 1.0 - Outlook AddIn (.NET)](./Sample1.0/README.md) - A simple example of calling the graph search api in a .NET Core web application.
--   [Sample 2.0 - Outlook AddIn (.NET)](./Sample2.1/README.md) - An Outlook AddIn that will perform searches based on an email subject
--   [Sample 2.1 - Excel AddIn (.NET)](./Sample2.1/README.md) -  An Excel AddIn that exports search results to a workbook for analysis
--   [Sample 2.2a - Outlook AddIn (Node.js)](./Sample2.2a/README.md) - Same Outlook Addin as in 2.0, only running as a NODE.JS application
--   [Sample 2.2b - Excel AddIn (Node.js)](./Sample2.2b/README.md) - Same Excel Addin as in 2.0, only running as a NODE.JS application
--   [Sample 3.0 - SPFx WebPart](./Sample3.0/README.md) - An SPFx web part that calls the Microsoft Graph Search API endpoint.
+-   [Sample 1.0 - SPFx WebPart](./Sample1.0/README.md) - An SPFx web part that calls the Microsoft Graph Search API endpoint.
 
 ## Questions and comments
 
