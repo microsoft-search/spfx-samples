@@ -57,7 +57,7 @@ For more information, see the [Code of Conduct FAQ](https://opensource.microsoft
 - [Microsoft Graph Security API Documentaion](https://aka.ms/graphsecuritydocs)
 - [Other Microsoft Graph Connect samples](https://github.com/MicrosoftGraph?utf8=%E2%9C%93&query=-Connect)
 - [Microsoft Graph overview](https://graph.microsoft.io)
-- TODO - [Microsoft Graph (Search API)](https://graph.microsoft.io)
+- [Microsoft Graph (Search API)](https://docs.microsoft.com/en-us/graph/api/resources/search-api-overview?view=graph-rest-beta)
 - [Sideload Outlook add-ins for testing](https://docs.microsoft.com/en-us/outlook/add-ins/sideload-outlook-add-ins-for-testing)
 - [Tutorial: Build a message compose Outlook add-in](https://docs.microsoft.com/en-us/outlook/add-ins/addin-tutorial?context=office/dev/add-ins/context)
 - [Deploy and publish your Office Add-in](https://docs.microsoft.com/en-us/office/dev/add-ins/publish/publish)
