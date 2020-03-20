@@ -28,7 +28,7 @@ These samples require the following:
 
 ## Microsoft Search Graph Preview
 
-Please reference the latest documentation on the preview features of the Microsoft Search Graph [here](TODO).
+Please reference the latest documentation on the preview features of the Microsoft Search Graph [here](https://docs.microsoft.com/en-us/graph/search-concept-overview).
 
 You can also get more familiar with the Microsoft Graph [here](https://developer.microsoft.com/en-us/graph).
 
